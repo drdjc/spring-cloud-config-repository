@@ -22,3 +22,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002:7002/eurekahello
+djc
